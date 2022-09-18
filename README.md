@@ -11,7 +11,6 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-
 ### :man_technologist: About Me :
 ```yaml
 name: Chanchal Gharpande
