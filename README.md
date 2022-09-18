@@ -12,9 +12,10 @@
 </div>
 
 ### :man_technologist: About Me :
+  
 ```yaml
 name: Chanchal Gharpande
-located_in: Nagpur, MAHArashtra , INDIA
+located_in: Nagpur, MAHArashtra, INDIA
 current_job:
 education:
   [
