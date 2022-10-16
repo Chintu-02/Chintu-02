@@ -12,7 +12,7 @@
 </div>
 
 ### :man_technologist: About Me :
-```yaml
+<p id="header" align="left">
  name: Chanchal Gharpande
  located_in: Nagpur, MAHArashtra, INDIA
  current_job:
@@ -30,7 +30,7 @@
  currently_learning: ["Docker, Kubernetes"]
  2022 Goals: ["To learn at least 5 New Technologies."]
  hobbies: ["Cinema", "Comedy"]
-```
+</p>
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
