@@ -13,7 +13,7 @@
 
 ### :man_technologist: About Me :
   
-```yaml
+cat.yml
 name: Chanchal Gharpande
 located_in: Nagpur, MAHArashtra, INDIA
 current_job:
