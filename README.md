@@ -24,7 +24,7 @@
 
 - :zap: In my free time, I Read Tech Articles, Watch Movies.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chanchal-gharpande-2b7b66231/)
+- :mailbox: How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chanchal-gharpande-2b7b66231/)
 </div>
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
