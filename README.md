@@ -22,7 +22,7 @@
 
 - :computer: Exploring New Technologies.
 
-- :zap: In my free time, I Read tech articles, Watch Movies.
+- :zap: In my free time, I Read Tech Articles, Watch Movies.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chanchal-gharpande-2b7b66231/)
 </div>
