@@ -12,7 +12,7 @@
 </div>
 
 ---
-
+<div align="left">
 ### :man_technologist: About Me :
 - :adult: name: Chanchal Gharpande
   
@@ -23,7 +23,7 @@
 - :zap: In my free time, I Read tech articles, Watch Movies.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chanchal-gharpande-2b7b66231/)
-  
+</div>  
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
