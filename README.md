@@ -19,7 +19,7 @@
   
 - :house: Nagpur, MAHArashtra, :india:
 
-- :seedling: Exploring New Technologies.
+- :computer: Exploring New Technologies.
 
 - :zap: In my free time, I Read tech articles, Watch Movies.
 
