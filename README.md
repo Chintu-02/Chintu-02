@@ -13,6 +13,14 @@
 ---
 
 ### :man_technologist: About Me :
+  
+- :adult: name: Chanchal Gharpande
+
+- :seedling: Exploring New Technologies.
+
+- :zap: In my free time, I Read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge][(https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)](https://www.linkedin.com/in/chanchal-gharpande-2b7b66231/)
 ```yaml
  name: Chanchal Gharpande
  located_in: Nagpur, MAHArashtra, INDIA
