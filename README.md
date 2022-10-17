@@ -23,26 +23,8 @@
 
 - :zap: In my free time, I Read tech articles, Watch Movies.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]https://www.linkedin.com/in/chanchal-gharpande-2b7b66231/
-```yaml
- name: Chanchal Gharpande
- located_in: Nagpur, MAHArashtra, INDIA
- current_job:
- education:
-  [
-    "Self-Taught Engineer",
-    "Bachelor's in Mechanical Engineering",
-  ]
+- :mailbox: How to reach me: [! Linkedin Badge (https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]https://www.linkedin.com/in/chanchal-gharpande-2b7b66231/
   
- fields_of_interests:
-  [
-    "DevOps",
-  ]
-  
- currently_learning: ["Docker, Kubernetes"]
- 2022 Goals: ["To learn at least 5 New Technologies."]
- hobbies: ["Cinema", "Comedy"]
-```
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
