@@ -14,7 +14,6 @@
 ---
 
 ### :man_technologist: About Me :
-  
 - :adult: name: Chanchal Gharpande
   
 - :house: Nagpur, MAHArashtra, :india:
